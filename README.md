@@ -13,7 +13,7 @@ The web tool takes in tutor’s and tutee information using Wix’s forms and co
 I built and formatted the needed Wix input forms to produce two sets of database - one for tutor and one for tutee. Then, I collaborated with a teammate to construct the backbone of readtutor.py. As the middle person between the data and the person in charge of optimizing and making the assignments, I cleaned up readtutor.py's code accordingly and made readtutee.py. We created two different Python files for tutors and tutee since input fields are different for each form.
 
 ### HackHolyoke
-This web tool won <b>Best Beginner Hack</b>at HackHolyoke 2022!
+This web tool won <b>Best Beginner Hack</b> at HackHolyoke 2022!
 Our team consisted of:
 <ul>
   <li> Dan-Ha Le '25 (@cyborf)
